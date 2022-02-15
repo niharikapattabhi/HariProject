@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1.328" height="4" viewBox="0 0 1.328 4">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Shape" d="M359-23v4a2.17,2.17,0,0,0,1.328-2A2.17,2.17,0,0,0,359-23" transform="translate(-359 23)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Cap" clip-path="url(#clip-path)">
+    <path id="Fill" d="M354-28h11.328v14H354Z" transform="translate(-359 23)" fill="rgba(0,0,0,0.4)"/>
+  </g>
+</svg>
